@@ -5,4 +5,4 @@ config:
   - name: BOTKIT_STUDIO_TOKEN
     friendly_name: Botkit Studio Token
     description: Token associated with your bot in Botkit Studio
-# To learn everything supported in the bot.yml file, visit https://beepboophq.com/docs/article/bot-yml
+# To learn everything supported in the bot.yml file, visit https://beepboophq.com/docs/article/bot-yml -
